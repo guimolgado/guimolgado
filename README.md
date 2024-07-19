@@ -4,6 +4,9 @@ bom dia ☕
 )](https://www.linkedin.com/in/guilhermevellar/)
 
 
+![Gui GitHub stats](https://github-readme-stats.vercel.app/api?username=guimolgado&show_icons=true&theme=radical)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guimolgado/guimolgado/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guimolgado/guimolgado/output/github-contribution-grid-snake.svg">
