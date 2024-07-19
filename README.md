@@ -4,7 +4,7 @@ bom dia ☕
 )](https://www.linkedin.com/in/guilhermevellar/)
 
 
-![Gui GitHub stats](https://github-readme-stats.vercel.app/api?username=guimolgado&show_icons=true&theme=radical)
+![Gui GitHub stats](https://github-readme-stats.vercel.app/api?username=guimolgado&show_icons=true&theme=dracula)
 
 
 <picture>
