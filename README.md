@@ -11,7 +11,7 @@ redes para me contatar
 ![Gui GitHub stats](https://github-readme-stats.vercel.app/api?username=guimolgado&show_icons=true&theme=dracula)
 
 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀 𝗱𝗼 𝗺𝗲𝘂 𝗱𝗶𝗮 𝗮 𝗱𝗶𝗮
-<br/>
+
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,7 +25,11 @@ redes para me contatar
   <img align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
+
+
 𝘀𝗶𝘀𝘁𝗲𝗺𝗮𝘀 𝗼𝗽𝗲𝗿𝗮𝗰𝗶𝗼𝗻𝗮𝗶𝘀 𝗾𝘂𝗲 𝗲𝘂 𝘂𝘁𝗶𝗹𝗶𝘇𝗼
+<br/>
+
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
