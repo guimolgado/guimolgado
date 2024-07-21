@@ -25,7 +25,7 @@ redes para me contatar
   <img align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-
+<br/>
 
 𝘀𝗶𝘀𝘁𝗲𝗺𝗮𝘀 𝗼𝗽𝗲𝗿𝗮𝗰𝗶𝗼𝗻𝗮𝗶𝘀 𝗾𝘂𝗲 𝗲𝘂 𝘂𝘁𝗶𝗹𝗶𝘇𝗼
 <br/>
