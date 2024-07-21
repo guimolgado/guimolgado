@@ -29,7 +29,6 @@ redes para me contatar
 
 𝘀𝗶𝘀𝘁𝗲𝗺𝗮𝘀 𝗼𝗽𝗲𝗿𝗮𝗰𝗶𝗼𝗻𝗮𝗶𝘀 𝗾𝘂𝗲 𝗲𝘂 𝘂𝘁𝗶𝗹𝗶𝘇𝗼
 <br/>
-<br/>
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
