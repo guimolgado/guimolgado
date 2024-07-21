@@ -10,8 +10,7 @@ redes para me contatar
 
 ![Gui GitHub stats](https://github-readme-stats.vercel.app/api?username=guimolgado&show_icons=true&theme=dracula)
 
-tecnologias do meu dia a dia
-
+𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀 𝗱𝗼 𝗺𝗲𝘂 𝗱𝗶𝗮 𝗮 𝗱𝗶𝗮
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,6 +23,17 @@ tecnologias do meu dia a dia
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
+</div>
+
+𝘀𝗶𝘀𝘁𝗲𝗺𝗮𝘀 𝗼𝗽𝗲𝗿𝗮𝗰𝗶𝗼𝗻𝗮𝗶𝘀 𝗾𝘂𝗲 𝗲𝘂 𝘂𝘁𝗶𝗹𝗶𝘇𝗼
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img align="center" alt="mac" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+  <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img align="center" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 
 </div>
 
